@@ -1,3 +1,6 @@
+// These were absolutely borrowed from the internet before modification. I (shamefully) don't remember the source
+// if you know the source, please tell me and I'll attribute appropriately. 
+
 extension NSRegularExpression {
     convenience init(_ pattern: String) {
         do {
